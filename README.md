@@ -61,3 +61,6 @@ Adicionar interatividade com JavaScript.
 
 ## Conclusão
 Neste projeto foi possível aplicar seu conhecimento das classes semânticas em um projeto prático. Eles criaram uma página web fictícia com um layout bem estruturado, usando as tags semânticas para organizar o conteúdo. 
+
+##Demonstração
+Este site pode ser acessado em: https://priscillatrevizan.github.io/ElasnaTech_Desafio02/
